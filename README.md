@@ -59,11 +59,11 @@ Number of aligned reads
 ```
 ## TEST
 								
--The application of our script on the file mapping.sam allowed us to obtain the following results for 264 reads :
+-The application of our script on the file test_mapping.sam allowed us to obtain the following results for 1180 reads :
 ```
-Total number of reads:  264
-Number of referenced reads:  264
-Number of reads with a quality superior to  20 :  238
-Number of paired reads:  264
-Number of aligned reads:  264
+Total number of reads: 1180
+Number of referenced reads: 1180
+Number of reads with a quality superior to  20 : 1066
+Number of paired reads: 1180
+Number of aligned reads: 1180
 ```
